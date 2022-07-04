@@ -1,12 +1,17 @@
 # Space Wars: Diplomacy
 
+➡️ Demo: https://noktnl.github.io/space-wars-demo/
+
+### Note: the link above and this repo displays the demo UI without any the real blockchain functionality. For the live blockchain version, please refer to the [original repo](https://github.com/general-computer/space-wars)
+
 Welcome to the source code reposition Space Wars. We are one of the first live products to come out of the Chainlink 2022 Spring Hackathon.
 
 We've created this experimental game design to see how exogenus play affects blockchain games. This code is in an alpha state and should be not be used for production, investment, or any use.
 
-➡️ Live preview: https://general-computer.github.io/space-wars/
 
-![image](https://user-images.githubusercontent.com/99992004/167917993-5b285730-4a52-4fe1-9da6-dd26c329d2de.png)
+
+<img width="1199" alt="Screenshot 2022-07-04 at 1 14 41 PM" src="https://user-images.githubusercontent.com/94875599/177152818-c9da3579-cca8-4b04-b524-ba754766f05e.png">
+
 
 
 ## Basic Gameplay Overview
